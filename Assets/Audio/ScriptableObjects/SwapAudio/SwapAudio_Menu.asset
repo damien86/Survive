@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e91db4ddcc2d6a7408aac76a5a69c16c, type: 3}
+  m_Name: SwapAudio_Menu
+  m_EditorClassIdentifier: 
+  Music: {fileID: 8300000, guid: cff54d703ec2f29459188827e3291498, type: 3}
+  Ambience: {fileID: 8300000, guid: 62a97a72a3978af459a0997f53c14b52, type: 3}

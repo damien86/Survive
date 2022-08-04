@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd7a003b77679b94b835fb0bf0a2cbf8, type: 3}
+  m_Name: Dialogue_Intro
+  m_EditorClassIdentifier: 
+  Actor: 0
+  Transcript: "I'm not going to lie, this is not looking good for you. Look around,
+    attempt to escape if have to\u2026 Honestly though, you should make peace with
+    this being your resting place. I don't expect you to fully understand anyways,
+    just know, we're watching, and they're hungry! Good Luck!"
+  DialogueClip: {fileID: 8300000, guid: 2d55f3bfbc3370c4181bdf516ac928be, type: 3}
